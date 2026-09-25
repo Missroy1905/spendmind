@@ -149,7 +149,8 @@ spendmind/
     ├── index.html
     ├── style.css
     └── app.js
----
+
+```
 
 ## 🚀 Getting Started
 
